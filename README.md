@@ -11,57 +11,57 @@ All symbols consist of official symbol characters, symbol names and meanings lis
 
 The easiest way to quickly **copy and paste symbols**.
 ### List of Smiley Symbols
-#### ☹ White Frowning Face
-#### ☺ White Smiling Face
-#### ☻ Black Smiling Face
-#### ㋡ Circled Katakana Tu
-#### ㋛ Circled Katakana Si
-#### 〠 Postal Mark Face
-#### ッ Katakana Letter Small Tu
-#### ツ Katakana Letter Tu
-#### シ Katakana Letter Si
-#### ヅ Katakana Letter Du
-#### 〲 Vertical Kana Repeat with Voiced Sound Mark
-#### 〴 Vertical Kana Repeat with Voiced Sound Mark Upper Half
-#### ⍨ Apl Functional Symbol Tilde Diaeresis
-#### ⍩ Apl Functional Symbol Greater-Than Diaeresis
-#### ﭢ Arabic Letter Teheh Isolated Form
-#### ت Arabic Letter Teh
-#### ⍢ Apl Functional Symbol Del Diaeresis
-#### 웃 Hangul Syllable Us
-#### 유 Hangul Syllable Yu
-#### ꑇ Yi Syllable Njyp
-#### ꐦ Yi Syllable Jjop
-#### ꐠ Yi Syllable Jjuox
-#### ꐡ Yi Syllable Jjuo
-#### ꐕ Yi Syllable Qyp
-#### ꌇ Yi Syllable Nzyrx
-#### ꌈ Yi Syllable Nzyr
-#### ꉕ Yi Syllable Hxuop
-#### ꈋ Yi Syllable Kex
-#### ꈌ Yi Syllable Ke
-#### ꆛ Yi Syllable Hliex
-#### ꆜ Yi Syllable Hlie
-#### ꃼ Yi Syllable Vy
-#### ⍣ Apl Functional Symbol Star Diaeresis
-#### ⍤ Apl Functional Symbol Jot Diaeresis
-#### ⍥ Apl Functional Symbol Circle Diaeresis
-#### ӫ Cyrillic Small Letter Barred O with Diaeresis
-#### Ӫ Cyrillic Capital Letter Barred O with Diaeresis
-#### ὃ Greek Small Letter Omicron with Dasia and Varia
-#### ü U with two Dots
-#### Ü Latin Capital Letter U with Diaeresis
-#### ὕ Greek Small Letter Upsilon with Dasia and Oxia
-#### ὣ Greek Small Letter Omega with Dasia and Varia
-#### Ѷ Cyrillic Capital Letter Izhitsa with Double Grave Accent
-#### ϡ Greek Small Letter Sampi
-#### ♀ Female Sign
-#### ♂ Male Sign
-#### ⚣ Doubled Male Sign
-#### ⚤ Interlocked Female and Male Sign
-#### ⚥ Male and Female Sign
-#### ⚦ Male with Stroke Sign
-#### ⚧ Male with Stroke and Male and Female Sign
-#### ⚨ Vertical Male with Stroke Sign
-#### ⚢ Doubled Female Sign
-#### ☿ Mercury
+- ☹ White Frowning Face
+- ☺ White Smiling Face
+- ☻ Black Smiling Face
+- ㋡ Circled Katakana Tu
+- ㋛ Circled Katakana Si
+- 〠 Postal Mark Face
+- ッ Katakana Letter Small Tu
+- ツ Katakana Letter Tu
+- シ Katakana Letter Si
+- ヅ Katakana Letter Du
+- 〲 Vertical Kana Repeat with Voiced Sound Mark
+- 〴 Vertical Kana Repeat with Voiced Sound Mark Upper Half
+- ⍨ Apl Functional Symbol Tilde Diaeresis
+- ⍩ Apl Functional Symbol Greater-Than Diaeresis
+- ﭢ Arabic Letter Teheh Isolated Form
+- ت Arabic Letter Teh
+- ⍢ Apl Functional Symbol Del Diaeresis
+- 웃 Hangul Syllable Us
+- 유 Hangul Syllable Yu
+- ꑇ Yi Syllable Njyp
+- ꐦ Yi Syllable Jjop
+- ꐠ Yi Syllable Jjuox
+- ꐡ Yi Syllable Jjuo
+- ꐕ Yi Syllable Qyp
+- ꌇ Yi Syllable Nzyrx
+- ꌈ Yi Syllable Nzyr
+- ꉕ Yi Syllable Hxuop
+- ꈋ Yi Syllable Kex
+- ꈌ Yi Syllable Ke
+- ꆛ Yi Syllable Hliex
+- ꆜ Yi Syllable Hlie
+- ꃼ Yi Syllable Vy
+- ⍣ Apl Functional Symbol Star Diaeresis
+- ⍤ Apl Functional Symbol Jot Diaeresis
+- ⍥ Apl Functional Symbol Circle Diaeresis
+- ӫ Cyrillic Small Letter Barred O with Diaeresis
+- Ӫ Cyrillic Capital Letter Barred O with Diaeresis
+- ὃ Greek Small Letter Omicron with Dasia and Varia
+- ü U with two Dots
+- Ü Latin Capital Letter U with Diaeresis
+- ὕ Greek Small Letter Upsilon with Dasia and Oxia
+- ὣ Greek Small Letter Omega with Dasia and Varia
+- Ѷ Cyrillic Capital Letter Izhitsa with Double Grave Accent
+- ϡ Greek Small Letter Sampi
+- ♀ Female Sign
+- ♂ Male Sign
+- ⚣ Doubled Male Sign
+- ⚤ Interlocked Female and Male Sign
+- ⚥ Male and Female Sign
+- ⚦ Male with Stroke Sign
+- ⚧ Male with Stroke and Male and Female Sign
+- ⚨ Vertical Male with Stroke Sign
+- ⚢ Doubled Female Sign
+- ☿ Mercury
